@@ -1,8 +1,11 @@
-import React from 'react'
+"use client"
 
 const InvoicePage = () => {
   return (
-    <div>InvoicePage</div>
+    <div>InvoicePage
+
+      having eiweefihweifnwrfrf
+    </div>
   )
 }
 
