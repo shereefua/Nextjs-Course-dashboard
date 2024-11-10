@@ -6,4 +6,4 @@ const InvoicePage = () => {
   )
 }
 
-export default InvoicePage
+export default InvoicePage;
