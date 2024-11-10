@@ -2,7 +2,6 @@
 
 import SideNav from "@/app/ui/dashboard/sidenav";
 
-import React from "react";
 
 const DashBoardLayout = () => {
     return (
